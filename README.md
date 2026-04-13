@@ -70,15 +70,15 @@ print(df.head())
 | okay.global      | available | $59.99     | $121.99       | 146            | 31     | 4      | name.com                                            |
 | test.global      | resell    | —          | —             | 72             | 89     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | zero.global      | premium   | $5,000     | $62.50        | 112            | 53     | 4      | name.com                                            |
-| wicked.global    | available | $59.99     | $121.99       | 70             | 30     | 6      | name.com                                            |
+| essential.global | available | $59.99     | $121.99       | 98             | 28     | 9      | name.com                                            |
 | affinity.global  | resell    | —          | —             | 74             | 81     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | ada.global       | premium   | $4,140     | $4,140        | 62             | 53     | 3      | GoDaddy.com, LLC                                    |
-| essential.global | available | $59.99     | $121.99       | 98             | 28     | 9      | name.com                                            |
-| omega.global     | resell    | —          | —             | 78             | 71     | 5      | Dynadot Inc                                         |
-| design.global    | premium   | $28,750    | $121.99       | 108            | 50     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | impulse.global   | available | $59.99     | —             | 78             | 28     | 7      | name.com                                            |
+| omega.global     | resell    | —          | —             | 78             | 71     | 5      | Dynadot Inc                                         |
+| design.global    | premium   | $28,750    | $121.99       | 108            | 49     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| wicked.global    | available | $59.99     | $121.99       | 70             | 28     | 6      | name.com                                            |
 | matt.global      | resell    | —          | —             | 72             | 71     | 4      | GoDaddy.com, LLC                                    |
-| digital.global   | premium   | $5,000     | $62.50        | 100            | 50     | 7      | name.com                                            |
+| digital.global   | premium   | $5,000     | $62.50        | 100            | 49     | 7      | name.com                                            |
 | actual.global    | available | $59.99     | $121.99       | 96             | 27     | 6      | name.com                                            |
 | hello.global     | resell    | —          | —             | 130            | 70     | 5      | Spaceship, Inc.                                     |
 | only.global      | premium   | $750       | $62.50        | 110            | 46     | 4      | name.com                                            |
