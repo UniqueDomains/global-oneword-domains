@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .global one-word domains from Uniq
 
 **Public extract:** 8,090 rows · **Live catalog:** 8,090 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/global`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | lovely.global    | available | $59.99     | $121.99       | 72             | 32     | 6      | name.com                                            |
-| beast.global     | resell    | $91,885    | $121.99       | 64             | 30     | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| beast.global     | resell    | $91,885    | $121.99       | 64             | 29     | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | pay.global       | premium   | $53,302.50 | —             | 84             | 60     | 3      | 101domain GRS Limited                               |
 | okay.global      | available | $59.99     | $121.99       | 146            | 31     | 4      | name.com                                            |
 | test.global      | resell    | —          | —             | 72             | 89     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
