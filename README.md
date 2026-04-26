@@ -1,22 +1,22 @@
-# Available .GLOBAL One-Word Domains (8,090)
+# Available .GLOBAL One-Word Domains (10,294)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C090%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C090%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C294%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .global one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .global one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,294 domains** on the canonical page below.
 
-**Public extract:** 8,090 rows · **Live catalog:** 8,090 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,294 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/global`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GLOBAL one-word domai
 
 ### Files
 
-- `global.csv` — public CSV extract (8,090 rows)
-- `global.json` — public JSON extract (8,090 rows)
+- `global.csv` — public CSV extract (1,000 rows)
+- `global.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| lovely.global    | available | $59.99     | $121.99       | 72             | 32     | 6      | name.com                                            |
-| beast.global     | resell    | $91,885    | $121.99       | 64             | 29     | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| pay.global       | premium   | $53,302.50 | —             | 84             | 60     | 3      | 101domain GRS Limited                               |
-| okay.global      | available | $59.99     | $121.99       | 146            | 31     | 4      | name.com                                            |
-| test.global      | resell    | —          | —             | 72             | 89     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| zero.global      | premium   | $5,000     | $62.50        | 112            | 53     | 4      | name.com                                            |
-| essential.global | available | $59.99     | $121.99       | 98             | 28     | 9      | name.com                                            |
-| affinity.global  | resell    | —          | —             | 74             | 81     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| ada.global       | premium   | $4,140     | $4,140        | 62             | 53     | 3      | GoDaddy.com, LLC                                    |
-| impulse.global   | available | $59.99     | —             | 78             | 28     | 7      | name.com                                            |
-| omega.global     | resell    | —          | —             | 78             | 71     | 5      | Dynadot Inc                                         |
-| design.global    | premium   | $28,750    | $121.99       | 108            | 49     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| wicked.global    | available | $59.99     | $121.99       | 70             | 28     | 6      | name.com                                            |
-| matt.global      | resell    | —          | —             | 72             | 71     | 4      | GoDaddy.com, LLC                                    |
-| digital.global   | premium   | $5,000     | $62.50        | 100            | 49     | 7      | name.com                                            |
-| actual.global    | available | $59.99     | $121.99       | 96             | 27     | 6      | name.com                                            |
-| hello.global     | resell    | —          | —             | 130            | 70     | 5      | Spaceship, Inc.                                     |
-| only.global      | premium   | $750       | $62.50        | 110            | 46     | 4      | name.com                                            |
-| words.global     | available | $59.99     | —             | 89             | 27     | 5      | name.com                                            |
-| mail.global      | resell    | —          | —             | 94             | 59     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| backyard.global   | available | $59.99    | —             | 80             | 27     | 9      | name.com    |
+| city.global       | resell    | —         | —             | 70             | 40     | 4      | Porkbun LLC |
+| travelers.global  | premium   | $3,000    | —             | 58             | 61     | 9      | name.com    |
+| digits.global     | available | $59.99    | —             | 76             | 26     | 6      | name.com    |
+| tokens.global     | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc |
+| agents.global     | premium   | $3,000    | —             | 56             | 50     | 6      | name.com    |
+| comics.global     | available | $59.99    | —             | 68             | 24     | 6      | name.com    |
+| Christians.global | resell    | —         | —             | 62             | 15     | 10     | IONOS SE    |
+| skills.global     | premium   | $3,000    | —             | 58             | 47     | 6      | name.com    |
+| whats.global      | available | $59.99    | —             | 58             | 24     | 5      | name.com    |
+| Ryan.global       | premium   | $3,360    | $70           | 60             | 44     | 4      | namecheap   |
+| superhero.global  | available | $59.99    | —             | 84             | 23     | 9      | name.com    |
+| Tools.global      | premium   | $5,600    | $70           | 56             | 40     | 5      | namecheap   |
+| giveback.global   | available | $59.99    | —             | 80             | 23     | 9      | name.com    |
+| stories.global    | premium   | $3,000    | —             | 58             | 36     | 7      | name.com    |
+| veterans.global   | available | $59.99    | —             | 56             | 23     | 8      | name.com    |
+| Cats.global       | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap   |
+| bubbles.global    | available | $59.99    | —             | 72             | 21     | 7      | name.com    |
+| solutions.global  | premium   | $5,000    | —             | 56             | 31     | 9      | name.com    |
+| Tests.global      | available | $127.98   | —             | 49             | 21     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,090-row public sample | 8,090 live domains                               |
+| 1,000-row public sample | 10,294 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
