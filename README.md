@@ -1,10 +1,10 @@
-# Available .GLOBAL One-Word Domains (10,294)
+# Available .GLOBAL One-Word Domains (10,837)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C294%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C837%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .global one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,294 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,837 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,294 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,837 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/global`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| backyard.global   | available | $59.99    | —             | 80             | 27     | 9      | name.com    |
-| city.global       | resell    | —         | —             | 70             | 40     | 4      | Porkbun LLC |
-| travelers.global  | premium   | $3,000    | —             | 58             | 61     | 9      | name.com    |
-| digits.global     | available | $59.99    | —             | 76             | 26     | 6      | name.com    |
-| tokens.global     | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc |
-| agents.global     | premium   | $3,000    | —             | 56             | 50     | 6      | name.com    |
-| comics.global     | available | $59.99    | —             | 68             | 24     | 6      | name.com    |
-| Christians.global | resell    | —         | —             | 62             | 15     | 10     | IONOS SE    |
-| skills.global     | premium   | $3,000    | —             | 58             | 47     | 6      | name.com    |
-| whats.global      | available | $59.99    | —             | 58             | 24     | 5      | name.com    |
-| Ryan.global       | premium   | $3,360    | $70           | 60             | 44     | 4      | namecheap   |
-| superhero.global  | available | $59.99    | —             | 84             | 23     | 9      | name.com    |
-| Tools.global      | premium   | $5,600    | $70           | 56             | 40     | 5      | namecheap   |
-| giveback.global   | available | $59.99    | —             | 80             | 23     | 9      | name.com    |
-| stories.global    | premium   | $3,000    | —             | 58             | 36     | 7      | name.com    |
-| veterans.global   | available | $59.99    | —             | 56             | 23     | 8      | name.com    |
-| Cats.global       | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap   |
-| bubbles.global    | available | $59.99    | —             | 72             | 21     | 7      | name.com    |
-| solutions.global  | premium   | $5,000    | —             | 56             | 31     | 9      | name.com    |
-| Tests.global      | available | $127.98   | —             | 49             | 21     | 5      | namecheap   |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cams.global        | available | $59.99    | —             | 52             | 29     | 4      | name.com  |
+| Christians.global  | resell    | —         | —             | 62             | 15     | 10     | IONOS SE  |
+| travelers.global   | premium   | $3,000    | —             | 58             | 61     | 9      | name.com  |
+| whats.global       | available | $59.99    | —             | 58             | 24     | 5      | name.com  |
+| agents.global      | premium   | $3,000    | —             | 56             | 50     | 6      | name.com  |
+| superhero.global   | available | $59.99    | —             | 84             | 23     | 9      | name.com  |
+| skills.global      | premium   | $3,000    | —             | 58             | 47     | 6      | name.com  |
+| giveback.global    | available | $59.99    | —             | 80             | 23     | 9      | name.com  |
+| Ryan.global        | premium   | $3,360    | $70           | 60             | 44     | 4      | namecheap |
+| veterans.global    | available | $59.99    | —             | 56             | 23     | 8      | name.com  |
+| Tools.global       | premium   | $5,600    | $70           | 56             | 40     | 5      | namecheap |
+| bubbles.global     | available | $59.99    | —             | 72             | 21     | 7      | name.com  |
+| stories.global     | premium   | $3,000    | —             | 58             | 36     | 7      | name.com  |
+| Tests.global       | available | $127.98   | —             | 49             | 21     | 5      | namecheap |
+| Cats.global        | premium   | $3,360    | $70           | 59             | 33     | 4      | namecheap |
+| hills.global       | available | $59.99    | —             | 65             | 20     | 5      | name.com  |
+| solutions.global   | premium   | $5,000    | —             | 56             | 31     | 9      | name.com  |
+| perks.global       | available | $59.99    | —             | 62             | 19     | 5      | name.com  |
+| inspiration.global | premium   | $3,000    | —             | 88             | 30     | 11     | name.com  |
+| questions.global   | available | $59.99    | —             | 78             | 17     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,294 live domains                              |
+| 1,000-row public sample | 10,837 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
