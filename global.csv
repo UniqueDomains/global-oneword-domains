@@ -227,6 +227,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 147b5206-d44c-4b54-873a-e9cc94268d23,coffeeandcake.global,available,59.99,,72,2,15,name.com,,
 147d32ca-c236-4dcd-b641-dbc6567a04c0,getthehint.global,available,59.99,,74,1,12,name.com,,
 14b85fba-e293-4356-b957-78f750a300e2,wanttobet.global,available,59.99,,62,1,11,name.com,,
+14c3b54a-faff-4813-b681-15100a1d690a,compute.global,available,59.99,,74,30,7,name.com,,
 14dc371c-a66e-4dbd-b635-a937fd319b0b,movemountains.global,available,59.99,,72,4,14,name.com,,
 14de7ee3-907b-4faf-a8bd-216ae13bafe6,tornados.global,available,59.99,,50,4,8,name.com,,
 14e31bd0-bb64-41f8-a55b-3d923305f787,gettothebottomof.global,available,59.99,,66,1,20,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a371c74-f4c5-4528-b99f-822d0ee57ee2,changethegame.global,available,59.99,,68,6,15,name.com,,
 5a537ab6-821d-4149-903f-8cda9a33fd48,Icouldeatahorse.global,available,127.98,,50,1,19,namecheap,,
 5a612833-80f7-4e1c-af41-da6547f4b165,shoppers.global,available,59.99,,64,10,8,name.com,,
-5ab030f7-3a00-42de-80a3-3d8747538539,couldhavesworn.global,available,59.99,,44,0,16,name.com,,
