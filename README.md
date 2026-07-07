@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .global one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,846 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,846 domains · **Median ask:** $646.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,846 domains · **Median ask:** $696.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/global`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/global`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GLOBAL one-word domai
 
 ### Files
 
-- `global.csv` — public CSV extract (1,000 rows)
-- `global.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `global.csv`, public CSV extract (1,000 rows)
+- `global.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.global       | available | $127.98   | —             | 80             | 5      | 5      | namecheap |
-| getup.global      | available | $59.99    | —             | 82             | 15     | 6      | name.com  |
-| useit.global      | available | $59.99    | —             | 94             | 7      | 6      | name.com  |
-| dogsit.global     | available | $59.99    | —             | 96             | 2      | 6      | name.com  |
-| playin.global     | available | $59.99    | —             | 80             | 10     | 7      | name.com  |
-| playon.global     | available | $59.99    | —             | 80             | 14     | 7      | name.com  |
-| stirup.global     | available | $59.99    | —             | 82             | 3      | 7      | name.com  |
-| leaveon.global    | available | $59.99    | —             | 80             | 1      | 8      | name.com  |
-| Snickers.global   | available | $127.98   | —             | 80             | 10     | 8      | namecheap |
-| FabFour.global    | available | $59.99    | —             | 82             | 3      | 8      | name.com  |
-| surebet.global    | available | $59.99    | —             | 82             | 7      | 8      | name.com  |
-| chaitea.global    | available | $59.99    | —             | 86             | 3      | 8      | name.com  |
-| criteria.global   | available | $59.99    | —             | 88             | 10     | 8      | name.com  |
-| aloevera.global   | available | $59.99    | —             | 80             | 10     | 9      | name.com  |
-| compute.global    | available | $59.99    | —             | 74             | 30     | 7      | name.com  |
-| Christians.global | resell    | —         | —             | 62             | 15     | 10     | IONOS SE  |
-| travelers.global  | premium   | $3,000    | —             | 58             | 61     | 9      | name.com  |
-| cams.global       | available | $59.99    | —             | 52             | 29     | 4      | name.com  |
-| agents.global     | premium   | $3,000    | —             | 56             | 50     | 6      | name.com  |
-| whats.global      | available | $59.99    | —             | 58             | 24     | 5      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| great.global | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| one.global   | available | —         | —             | high           | medium | 3      | —                                                       |
+| clean.global | available | —         | —             | high           | high   | 5      | —                                                       |
+| ane.global   | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                               |
+| pure.global  | resell    | $59,225   | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| Ann.global   | premium   | $3,000    | —             | high           | low    | 3      | name.com                                                |
+| acne.global  | available | $59.99    | —             | medium         | low    | 4      | name.com                                                |
+| day.global   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                            |
+| atp.global   | premium   | $3,000    | —             | medium         | low    | 3      | name.com                                                |
+| belt.global  | available | $59.99    | —             | high           | low    | 4      | name.com                                                |
+| door.global  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| awe.global   | premium   | $5,000    | —             | high           | low    | 3      | name.com                                                |
+| else.global  | available | $59.99    | —             | high           | low    | 4      | name.com                                                |
+| luck.global  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| bud.global   | premium   | $5,000    | —             | high           | low    | 3      | name.com                                                |
+| fall.global  | available | $59.99    | —             | medium         | low    | 4      | name.com                                                |
+| move.global  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| cup.global   | premium   | $5,000    | —             | high           | low    | 3      | name.com                                                |
+| fill.global  | available | $59.99    | —             | medium         | low    | 4      | name.com                                                |
+| rein.global  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word .global domains. The pattern is broad and brand-oriented: some names are literal, some are action-led, and some feel more open-ended, like useit.global, playon.global, or edamame.global. For founders, the key question is whether a name is memorable, easy to say, and specific enough to support a real brand. For investors, the main test is pricing discipline against resale uncertainty, since the median ask is 647.02 and no resale or spread signal is established here. When comparing these domains, weigh word quality, commercial clarity, and possible trademark friction before treating low pricing as value.
+This set covers one-word domain names registered under the .global TLD, spanning dictionary words, compound phrases, and character-style names such as Apples.global, DaffyDuck.global, and superhero.global. With 10,846 domains in this list and a median ask price of $697, .global offers broad naming room at accessible price points. Names range from literal terms like furnishings.global and dogwalking.global to action phrases like getmoving.global and makehappen.global, giving investors a wide field to compare spread and founders a clear shortlist of ownable, brandable names.
 
-- All results are one-word names on the .global extension
-- Median ask across this set is 647.02
-- Compare memorability, clarity, and trademark exposure
-- Lower ask does not confirm resale liquidity
+- 10,846 one-word .global domains, median ask ~$697
+- Mix of dictionary, compound, and brandable names
+- Examples: Superhero.global, Apples.global, DaffyDuck.global
+- Updated daily for pricing and renewal comparison
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
