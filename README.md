@@ -1,10 +1,10 @@
-# Available .GLOBAL One-Word Domains (21,564)
+# Available .GLOBAL One-Word Domains (22,693)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C564%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C693%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .global one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,564 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,693 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,564 domains · **Median ask:** $387.09 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,693 domains · **Median ask:** $370.09 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/global`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| great.global | resell    | —         | —             | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| ane.global   | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                               |
-| pure.global  | resell    | $59,225   | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| aft.global   | premium   | $3,000    | $62.50        | low            | low    | 3      | name.com                                                |
-| bum.global   | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                               |
-| day.global   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                            |
-| Ann.global   | premium   | $3,000    | —             | high           | low    | 3      | name.com                                                |
-| ixc.global   | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                               |
-| door.global  | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| atp.global   | premium   | $3,000    | —             | medium         | low    | 3      | name.com                                                |
-| xlv.global   | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                               |
-| luck.global  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| awe.global   | premium   | $5,000    | —             | high           | low    | 3      | name.com                                                |
-| acne.global  | available | $59.99    | —             | medium         | low    | 4      | name.com                                                |
-| move.global  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
-| bay.global   | premium   | $3,000    | $62.50        | low            | low    | 3      | name.com                                                |
-| awny.global  | available | $34.98    | $127.98       | low            | low    | 4      | namecheap                                               |
-| rein.global  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| bud.global   | premium   | $5,000    | —             | high           | low    | 3      | name.com                                                |
-| belt.global  | available | $59.99    | —             | high           | low    | 4      | name.com                                                |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ane.global  | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                           |
+| pure.global | resell    | $59,225   | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| aft.global  | premium   | $3,000    | $62.50        | low            | low    | 3      | name.com                                            |
+| bum.global  | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                           |
+| day.global  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                        |
+| Ann.global  | premium   | $3,000    | —             | high           | low    | 3      | name.com                                            |
+| ixc.global  | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                           |
+| door.global | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| atp.global  | premium   | $3,000    | —             | medium         | low    | 3      | name.com                                            |
+| xlv.global  | available | $34.98    | $127.98       | low            | low    | 3      | namecheap                                           |
+| luck.global | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| awe.global  | premium   | $5,000    | —             | high           | low    | 3      | name.com                                            |
+| acne.global | available | $59.99    | —             | medium         | low    | 4      | name.com                                            |
+| move.global | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                         |
+| bay.global  | premium   | $3,000    | $62.50        | low            | low    | 3      | name.com                                            |
+| awny.global | available | $34.98    | $127.98       | low            | low    | 4      | namecheap                                           |
+| rein.global | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| bud.global  | premium   | $5,000    | —             | high           | low    | 3      | name.com                                            |
+| belt.global | available | $59.99    | —             | high           | low    | 4      | name.com                                            |
+| roll.global | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,564 live domains                        |
+| 1,000-row public sample | 22,693 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLOBAL One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
